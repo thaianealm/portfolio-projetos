@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/thaianealm">
-<img  width=""  height=""  src="https://lh3.googleusercontent.com/IlQF52XAHNuI_mrfJZDwp5yipbW3c0Ip8eXOsBsp4YScaWo21LTN2KQIr-mt3FnG-3fAOOZW1c44aQvQGAvnL3HU4kMB4gq9z0Svs2lN_APzDLyuwK3NTkKiS6D0Mit-WhRhVNJZh3VSHJuVsbXMXhBXobGWpIyYGjAtKec-To4aCETTLChsAFL8sTESepJsBERiLY3j3Vqeg9n9EfijiB2K_dnA5URIDKoKG0Utnb8J34xh_BRmHpfPG9PYXoAev4JWXVefnikhuOPtNoaeLfCJ1zFIrwOjxVhBblaafm3i-gn4Gu24tTMUuE6xT_LQBVTRlNr7icxE1gBrHzL_4s6paQIp-Hw6laJL-qiCypQttxRU1yv0RaxRx7wWIUgpWVi0HqgSU5M8nuu8Xrr7GHA3Fh6mdOpbZNManSZ26sE5t-ZlUEUUuwSyUs5lVd23kQrstPx2BZBr8q4isHpczNDLw-fcNOlF_M4qKLZXB-iMlTsfwoJF_BAeDtpckJZ3cJAIr4BuJBaFKyavQGMzplaCH5gnsh9ceWBGWThlx6U_jjJZvUVOCANbFZqcDo1HUUKb7hjAvTChKQ6Jx-G_2uco1E3ELeR-SQ16_PBovjyyzD2MgbcIAZL-sUVOghEliBHPDRgvSL3rN5--YxSCBVThJOa10BQtpbgdiZjyl_J3BgEqF8G9k-IV43AK8-A7ZpohHsT0iS_7BSq7cQLtViV_bcUCLxjFMDldYs__7CdV2i4sN3Xfxa3q-uiruxRdURQBPcbnuKwg-s4TL_FCk3bc04MkOHb7HHmKLYJiJ5HTJ0wiXJHEW5OjYpT_D2gg-WIqWKmuNlklGCjbRigOiuS6JDV7nI6Qp2qQv1qqoqGejF8xKWp_WSALbbdASaWtlptf1HtVrZRfo36JDaPF1XtzRmrYySmuleVpmomLx9tn6w=s200-no?authuser=0">
+<img  width=""  height=""  src="./img/Thaiane.png">
 </p>
 
 ## 👩‍💻 Projetos Realizados:
