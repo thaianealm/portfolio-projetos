@@ -48,7 +48,7 @@
             </tr>
             <tr>
                 <td>Verificador de idade</td>
-                <td><a href="https://github.com/thaianealm/html-css-javascript/tree/main/check-age">Visualizar</a></td>
+                <td><a href="https://github.com/thaianealm/verificador-de-idade">Visualizar</a></td>
                 <td align="center">🚧</td>
             </tr>
              <tr>
