@@ -49,7 +49,7 @@
             <tr>
                 <td>Verificador de idade</td>
                 <td><a href="https://github.com/thaianealm/verificador-de-idade">Visualizar</a></td>
-                <td align="center">🚧</td>
+                <td align="center">✅</td>
             </tr>
              <tr>
                 <td>Pokedéx</td>
